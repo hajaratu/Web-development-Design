@@ -1,0 +1,48 @@
+body{
+    background-color: skyblue;
+}
+/*
+.osman{
+    float: right;
+}
+
+.kanu{
+    float: left;
+}
+*/
+/* .osman{
+    position: relative;
+    right: 50px;
+    border: 2px solid blue;
+}
+*/
+/*
+.fixed {
+  position: fixed;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+}
+*/
+
+/*
+  div.absolute {
+    position: absolute;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
+  */
+  
+div.sticky {
+  position: sticky;
+  top: 0;
+  padding: 5px;
+  background-color: #089408;
+  border: 2px solid #001301;
+}
+
+
+  
